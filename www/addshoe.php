@@ -3,7 +3,7 @@
  * Author: Hieu Nguyen
  * Date: 6/14/2021
  * File: addshoe.php
- * Description:
+ * Description: add more shoes to the store
  */
 
 require_once '../includes/check_admin.php';
