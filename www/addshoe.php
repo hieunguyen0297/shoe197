@@ -13,7 +13,7 @@ if(!is_admin()){
     header("Location: error.php?m=$error");
     exit();
 }
-
+/*page title*/
 $page_title = "Add Shoe";
 
 
